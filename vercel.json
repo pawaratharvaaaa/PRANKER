@@ -1,0 +1,6 @@
+﻿{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/media/rickroll.mp4", "destination": "/app/src/main/res/raw/rickroll.mp4" }
+  ]
+}
