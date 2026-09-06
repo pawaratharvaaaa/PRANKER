@@ -1,0 +1,23 @@
+﻿<resources>
+    <string name="app_name">Quantum IQ</string>
+    <string name="decoy_badge">CERTIFIED COGNITIVE LABS • V4.2</string>
+    <string name="decoy_title">Quantum IQ &amp; Neuro Scanner</string>
+    <string name="decoy_subtitle">High-Precision Optical &amp; Neural Frequency Assessment</string>
+    <string name="decoy_card_badge">Mensa Benchmark Standard • 99.4% Accuracy</string>
+    <string name="decoy_card_desc">Calibrate your optical sensor and look directly into the scanner. The system uses high-frequency neural eye tracking to calculate your cognitive intelligence score.</string>
+    <string name="decoy_age_label">Age Classification:</string>
+    <string name="decoy_age_18_25">18–25</string>
+    <string name="decoy_age_26_35">26–35</string>
+    <string name="decoy_age_36_50">36–50</string>
+    <string name="decoy_age_50_plus">50+</string>
+    <string name="decoy_mode_label">Diagnostic Protocol:</string>
+    <string name="decoy_mode_rapid">Rapid Optical Calibration (30s)</string>
+    <string name="decoy_btn_scan">CALIBRATE &amp; START SCAN</string>
+    <string name="decoy_footer">🔒 256-bit Biometric Shield Active</string>
+    
+    <!-- Prank Screen Strings -->
+    <string name="prank_title">YOU GOT RICKROLLED! 🕺🎉</string>
+    <string name="prank_subtitle">Never gonna give you up,\nNever gonna let you down!</string>
+    <string name="prank_replay">Play Again</string>
+    <string name="prank_reset">Prank Next Friend</string>
+</resources>
